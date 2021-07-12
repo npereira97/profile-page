@@ -8,6 +8,7 @@ import './css/vars.css';
 function App() {
   return (
 
+    <div className='background'>
     <div className='resume'>
       <div className="top-header">
             <div className="main-title">Neil Pereira</div>
@@ -168,6 +169,8 @@ function App() {
             
 
         </div>
+    </div>
+
     </div>
     
   );
