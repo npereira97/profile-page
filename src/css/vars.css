@@ -1,11 +1,12 @@
-:root {
+/* :root {
     --title-text-color: white;
-    --time-color: rgb(66, 40, 90);
+    --time-color: rgb(131, 10, 245);
     --top-header: rgb(53, 53, 77);
     --left-col-background: rgba(122, 122, 172, 0.192);
-    --main-text-color: black;
-    --left-pane-col: white;
-}
+    --main-text-color: white;
+    --left-pane-col: rgba(125, 125, 253, 0.027);;
+    --statement-background: rgba(109, 109, 151, 0.096);
+} */
 
 
 :root {
@@ -13,25 +14,7 @@
     --time-color: rgb(131, 10, 245);
     --top-header: rgb(53, 53, 77);
     --left-col-background: rgba(122, 122, 172, 0.192);
-    --main-text-color: black;
+    --main-text-color: white;
     --left-pane-col: rgba(125, 125, 253, 0.027);;
     --statement-background: rgba(109, 109, 151, 0.096);
 }
-/* 
- :root {
-    --title-text-color: white;
-    --time-color: rgb(121, 46, 32);
-    --top-header: rgb(148, 26, 9);
-    --left-col-background: rgba(122, 122, 172, 0.192);
-    --main-text-color: black;
-    --left-pane-col: white;
-} 
-
-:root {
-    --title-text-color: rgb(255, 255, 255);
-    --time-color: rgb(3, 76, 110);
-    --top-header: rgb(9, 143, 148);
-    --left-col-background: rgba(3, 3, 48, 0.041);
-    --main-text-color: black;
-    --left-pane-col: rgb(247, 247, 240);
-} */
